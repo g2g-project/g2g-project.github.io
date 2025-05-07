@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-Last Updated: May 6th
+Last Updated: May 6th 2025
 # Welcome
 ---
 Welcome to the Getting2Good project: A project about improving the lives and reducing the stress of caregivers. Our mission is to help reduce stress with caregivers, especially those that deal with patients with dementia. Each week, we will give an update on the progress of creating this app. 
